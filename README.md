@@ -11,6 +11,10 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
+  
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+</a>
 
   <!-- Python Badge -->
   <a href="#" target="_blank">
