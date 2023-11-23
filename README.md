@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Mas utilizado</h2> 
+  <h2>Habilidades 🪄</h2> 
 </div>
 
 <div id="badges" align="center">
