@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  <h1>Bienvenido</h1> 
+</div>
 
-<!--
-**DaniVH7/DaniVH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Lo mas utilizado</h2> 
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <!-- HTML Badge -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Python Badge -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+
+  <!-- JavaScript Badge -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  </a>
+
+  <!-- Flutter Badge -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  </a>
+</div>
