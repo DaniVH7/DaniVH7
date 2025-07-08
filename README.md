@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Bienvenido seas</h1> 
+  <h1>Welcome</h1> 
 </div>
 
 <div align="center">
-  <h2>Habilidades 🪄</h2> 
+  <h2>Skills 🪄</h2> 
 </div>
 
 <div id="badges" align="center">
